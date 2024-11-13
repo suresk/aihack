@@ -2,7 +2,7 @@ Welcome! This hackathon consists of two parts - a set of warmup tasks that you s
 
 # Warmup Tasks
 
-It is probably best if you complete the first two in order, then do whatever you want after those. Complete as many as you can!
+It is probably best if you complete the first one before attempting others, but after that you can do them in whatever order. Complete as many as you can!
 
 1. Figure out which Chat applications your team has access to, and decide on one to use together. If you don't have one, sign up for one below:
 
@@ -38,3 +38,4 @@ Now that you have seen some examples of things you can do and how you interact w
 - A bot that helps you write one-pagers for product ideas that match your company's requirements and style
 - Onboarding help for new employees
 - What is an annoying part of your job you wish you didn't have to do anymore?
+- Still stuck? Try asking the LLM for ideas.
